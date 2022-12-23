@@ -1,0 +1,3 @@
+﻿  csgoCheatExt.cpp
+C:\work\programing\cheats\csgo\csgoCheatExt\csgoCheatExt\csgoCheatExt.cpp(155,9): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+  csgoCheatExt.vcxproj -> C:\work\programing\cheats\csgo\csgoCheatExt\Debug\csgoCheatExt.exe
