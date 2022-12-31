@@ -1,3 +1,11 @@
 ﻿  csgoCheatExt.cpp
-C:\work\programing\cheats\csgo\csgoCheatExt\csgoCheatExt\csgoCheatExt.cpp(155,9): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\work\programing\cheats\csgo\csgoCheatExt\csgoCheatExt\csgoCheatExt.cpp(53,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\work\programing\cheats\csgo\csgoCheatExt\csgoCheatExt\csgoCheatExt.cpp(63,22): warning C4305: '=': truncation from 'double' to 'float'
+C:\work\programing\cheats\csgo\csgoCheatExt\csgoCheatExt\csgoCheatExt.cpp(72,22): warning C4305: '=': truncation from 'double' to 'float'
+C:\work\programing\cheats\csgo\csgoCheatExt\csgoCheatExt\csgoCheatExt.cpp(99,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\work\programing\cheats\csgo\csgoCheatExt\csgoCheatExt\csgoCheatExt.cpp(102,22): warning C4305: '=': truncation from 'double' to 'float'
+C:\work\programing\cheats\csgo\csgoCheatExt\csgoCheatExt\csgoCheatExt.cpp(117,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\work\programing\cheats\csgo\csgoCheatExt\csgoCheatExt\csgoCheatExt.cpp(125,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\work\programing\cheats\csgo\csgoCheatExt\csgoCheatExt\csgoCheatExt.cpp(134,110): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\work\programing\cheats\csgo\csgoCheatExt\csgoCheatExt\csgoCheatExt.cpp(393,9): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
   csgoCheatExt.vcxproj -> C:\work\programing\cheats\csgo\csgoCheatExt\Debug\csgoCheatExt.exe
