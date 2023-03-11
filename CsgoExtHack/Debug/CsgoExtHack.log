@@ -1,0 +1,10 @@
+﻿  CsgoExtHack.cpp
+C:\work\programing\cheats\CsgoExtHack\CsgoExtHack\CsgoExtHack.cpp(179,22): warning C4305: '=': truncation from 'double' to 'float'
+C:\work\programing\cheats\CsgoExtHack\CsgoExtHack\CsgoExtHack.cpp(188,22): warning C4305: '=': truncation from 'double' to 'float'
+C:\work\programing\cheats\CsgoExtHack\CsgoExtHack\CsgoExtHack.cpp(215,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\work\programing\cheats\CsgoExtHack\CsgoExtHack\CsgoExtHack.cpp(218,22): warning C4305: '=': truncation from 'double' to 'float'
+C:\work\programing\cheats\CsgoExtHack\CsgoExtHack\CsgoExtHack.cpp(233,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\work\programing\cheats\CsgoExtHack\CsgoExtHack\CsgoExtHack.cpp(241,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\work\programing\cheats\CsgoExtHack\CsgoExtHack\CsgoExtHack.cpp(250,110): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\work\programing\cheats\CsgoExtHack\CsgoExtHack\CsgoExtHack.cpp(575,9): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+  CsgoExtHack.vcxproj -> C:\work\programing\cheats\CsgoExtHack\Debug\CsgoExtHack.exe
